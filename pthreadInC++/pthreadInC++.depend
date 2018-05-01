@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1525167252 source:/home/wnl/workspace/WuNLTools/pthreadInC++/src/pthreadObject.cpp
+	"pthreadObject.h"
+	<unistd.h>
+
+1525167279 /home/wnl/workspace/WuNLTools/pthreadInC++/include/pthreadObject.h
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+
+1525167216 source:/home/wnl/workspace/WuNLTools/pthreadInC++/main.cpp
+	<iostream>
+	<unistd.h>
+	<pthread.h>
+	<stdint.h>
+	"pthreadObject.h"
+	<bits/stdc++.h>
+
